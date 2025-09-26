@@ -1,6 +1,6 @@
 # About Me  
 
-- 👋 Hi, I’m **[`Arun Pravin A P`]**.  
+- 👋 Hi, I’m **`Arun Pravin A P`**.  
 - 🎓 **CSE Student @ Amrita Vishwa Vidyapeetham (2024–2028)**  
 - 🛠 Passionate about **building smart apps & solving problems** with a keen interest in **Artificial Intelligence**.  
 - 💡 Curious about **AI, system design, and exciting open-source projects**.  
