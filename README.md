@@ -12,7 +12,7 @@
 
 ## Programming Languages & Frameworks  
 
-![Skills](https://skillicons.dev/icons?i=py,java,cpp,c,html,css,js,react,mysql,flutter,dart,nodejs,tensorflow,pytorch,supabase)  
+![Skills](https://skillicons.dev/icons?i=py,java,cpp,c,html,css,js,mysql,flutter)  
 
 ---
 
