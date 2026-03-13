@@ -4,7 +4,6 @@
 - 🎓 **CSE Undergrad @ Amrita Vishwa Vidyapeetham (2024–2028)**  
 - 🛠 Passionate about **building smart applications & solving problems** with a keen interest in **Artificial Intelligence**.  
 - 💡 Curious about **AI, system design, and exciting open-source projects**.  
-- 🧠 Exploring **Neural Networks, Machine Learning, NLP, AI, and Distributed Systems**.  
 
 
 
@@ -12,7 +11,7 @@
 
 ## Programming Languages & Frameworks  
 
-![Skills](https://skillicons.dev/icons?i=py,java,cpp,c,html,css,js,mysql,flutter)  
+![Skills](https://skillicons.dev/icons?i=py,java,cpp,c,html,css,js,haskell,mysql,flutter)  
 
 ---
 
